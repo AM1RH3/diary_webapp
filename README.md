@@ -1,3 +1,3 @@
 # diary_webapp
 
-A new Flutter project.
+a cross language progect :)
